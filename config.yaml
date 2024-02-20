@@ -1,0 +1,11 @@
+# dataset root dir
+path: C:/Users/jorda/OneDrive - University of Utah/Personal/Work/Moran Eye Center/Masters/object detection data
+# train images (relative to 'path')
+train: images/train
+# validation images (relative to 'path')
+val: images/val
+
+# Classes
+names:
+    0: fovea_oct
+    1: fovea_fundus
