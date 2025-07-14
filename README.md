@@ -8,7 +8,7 @@ In response to this, we developed a program to interface with the Heidelberg Spe
 # Organization
 Within this repository, you'll find the mechanical drawings and components used to adapt the traditionally upright clinical Heidelberg Spectralis to a more accesible transverse orientation, suitable for analyzing _ex vivo_ specimens.
 
-Further, all relevent Python code used to train and test the object detection model and to sample the specimen are included.
+All relevent Python code used to train and test the object detection model and to sample the specimen are included, along with the training data.
 
 # Future Directions
-This project is ongoing and will continue to be updated periodically with refined code. The next big step is to integrate the motors for automatic alignment.
+This project is ongoing and will continue to be updated periodically with refined code. The next step is to integrate the motors for automatic alignment.
